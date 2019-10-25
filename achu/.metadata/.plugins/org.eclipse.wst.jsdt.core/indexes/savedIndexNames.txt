@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\Coalesce\Documents\achu\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1979536753.index
+4144958646.index
+1798654827.index
+2744742364.index

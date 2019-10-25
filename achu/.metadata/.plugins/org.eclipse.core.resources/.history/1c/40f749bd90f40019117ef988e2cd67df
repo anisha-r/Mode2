@@ -1,0 +1,5 @@
+package com.example.microservice;
+
+public class User {
+
+}
